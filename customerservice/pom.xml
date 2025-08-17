@@ -8,11 +8,11 @@
 		<version>3.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.tnsif</groupId>
-	<artifactId>customerservice</artifactId>
+	<groupId>com.spring-data-jpa-mapping</groupId>
+	<artifactId>spring-data-jpa-mapping</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>customerservice</name>
-	<description>Springboot Backend - (customerservice)</description>
+	<name>spring-data-jpa-mapping</name>
+	<description>Project 2</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -67,3 +67,4 @@
 	</build>
 
 </project>
+
